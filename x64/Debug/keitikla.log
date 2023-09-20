@@ -1,0 +1,4 @@
+﻿  keitikla.cpp
+C:\Bot\keitikla\keitikla.cpp(23,13): warning C4566: character represented by universal-character-name '\u012F' cannot be represented in the current code page (1252)
+C:\Bot\keitikla\keitikla.cpp(23,13): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+  keitikla.vcxproj -> C:\Bot\keitikla\x64\Debug\keitikla.exe
